@@ -41,17 +41,17 @@ I build scalable, high-performance **web & mobile applications** with clean arch
 ## 📈 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=haiderarshad&theme=radical&no-frame=true" alt="trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=haiderarshad021&theme=radical&no-frame=true" alt="trophies" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=haiderarshad&theme=dark&hide_border=true" alt="streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=haiderarshad021&theme=dark&hide_border=true" alt="streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=haiderarshad&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Haider's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=haiderarshad021&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Haider's GitHub stats" />
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haiderarshad&layout=compact&theme=dark&langs_count=6" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haiderarshad021&layout=compact&theme=dark&langs_count=6" alt="Top languages" />
 </p>
 
 > **Tip:** If some contributions don’t appear on third-party widgets, see the _Contributions troubleshooting_ section below.
