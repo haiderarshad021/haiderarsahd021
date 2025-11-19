@@ -65,17 +65,15 @@ I build scalable, high-performance **web & mobile applications** with clean arch
 ### 🔹 TravelSync
 **Cross-platform travel planner** — offline caching, route optimization, realtime sync.  
 **Stack:** Flutter, Django, PostgreSQL, Redis, AWS.  
-**Repo:** `your-repo-link` · **Live:** `your-demo-link`
 
 ### 🔹 E-Vital
 Healthcare frontend with secure auth, RBAC and polished UI components.  
 **Stack:** React, Node/Express, MongoDB, Firebase.  
-**Repo:** `your-repo-link`
+
 
 ### 🔹 Carpool Microservice
 Ride matching, fare negotiation and driver mobile app.  
 **Stack:** Django, Postgres, Flutter, Google Maps.  
-**Repo:** `your-repo-link`
 
 ---
 
@@ -91,31 +89,9 @@ Ride matching, fare negotiation and driver mobile app.
 ## 📫 Connect
 
 <p align="left">
-  <a href="https://github.com/haiderarshad" target="_blank">💻 GitHub</a> &nbsp;•&nbsp;
+  <a href="https://github.com/haiderarshad021" target="_blank">💻 GitHub</a> &nbsp;•&nbsp;
   <a href="https://www.linkedin.com/in/haider-arshad-a06578317/" target="_blank">🔗 LinkedIn</a> &nbsp;•&nbsp;
   <a href="https://www.instagram.com/haiderarshad022/" target="_blank">📷 Instagram</a> &nbsp;•&nbsp;
-  <a href="mailto:haiderarshad@gmail.com">✉️ Email</a>
+  <a href="mailto:haiderarshad021@gmail.com">✉️ Email</a>
 </p>
 
----
-
-## 🛠 How to Make All Contributions Appear (quick checklist)
-
-If your GitHub contributions, commit counts, or third-party widgets are missing some activity, try this checklist:
-
-1. **Confirm username** — widgets use your exact GitHub username (e.g. `haiderarshad`).  
-2. **Commit email** — ensure commits are made with an email address that’s added and verified in your GitHub account.  
-3. **Public vs Private:** public contribution graph only shows public activity to others; private contributions are visible on your GitHub profile but may not be exposed to external widgets.  
-4. **Widget params:** for `github-readme-stats` set `include_all_commits=true` to count all commits. Some widgets can’t access private data without explicit tokens.  
-5. **Repo visibility & branch:** check that commits are on the repository’s default branch (usually `main`/`master`) or merged into it — some providers ignore commits on non-default branches.  
-6. **Wait for refresh:** GitHub and widgets sometimes cache results; allow a few minutes to an hour for updates.
-
----
-
-## 📌 Want this README customized?
-I can:
-- Convert this to a single-file static HTML (for `index.html`) with the same styling.  
-- Add project badges, direct repo links, or a “Hire me” CTA button.  
-- Add a visual contribution calendar, or a customized skills grid with animated SVGs.
-
-If you want any of the above, tell me which and I’ll update the README accordingly.
