@@ -54,10 +54,10 @@ I aim to create digital products that are **scalable, reliable, and delightful t
 ## 📧 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/haiderarshad/" target="_blank">
+  <a href="https://www.linkedin.com/in/haider-arshad-a06578317/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://www.instagram.com/haider_arshad/" target="_blank">
+  <a href="https://www.instagram.com/haiderarshad022/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="https://stackoverflow.com/users/your-stackoverflow-id/haider-arshad" target="_blank">
