@@ -54,13 +54,8 @@ I build scalable, high-performance **web & mobile applications** with clean arch
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haiderarshad021&layout=compact&theme=dark&langs_count=6" alt="Top languages" />
 </p>
 
-> **Tip:** If some contributions don’t appear on third-party widgets, see the _Contributions troubleshooting_ section below.
 
----
-
-## 💼 Selected Projects
-
-> Link the repository (or demo) in each project block for best results.
+## 💼 Projects
 
 ### 🔹 TravelSync
 **Cross-platform travel planner** — offline caching, route optimization, realtime sync.  
